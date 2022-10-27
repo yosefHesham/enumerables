@@ -1,31 +1,18 @@
+# My Enumerable
 
-# REACT-Template
+> This is a project that we worked on the the enumerables methods all? any? and #filter  .
 
-> Starter template with linters and bable setup for react projects
+## Built With
 
+- Ruby
 
-# Note:
-this is a usage guide, remove it once you install all requirements
-
-
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-- git
-- npm
-
-### Setup
-- clone this temp with `git clone https://github.com/yosefHesham/react-temp`
-
-### Install
-- run `npm install` to install dev dependencies
-
-### Usage
-- run `npm start` to run server.
-- run `npm run build` to prepare for deployment
-
-
+- Clone the project from GitHub `https://github.com/yosefHesham/enumerables.git`
+- Run the following commands as listed in your terminal:
+- `ruby list.rb`
 
 
 ## Authors
@@ -35,6 +22,12 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@yosefHesham](https://github.com/yosefHesham)
 - Twitter: [@yousef](https://twitter.com/Yousef45653478)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yousef-hesham98)
+
+👤 **Habeeb Musa Efiamotu**
+
+- GitHub: [@Efiamotu](https://github.com/Efiamotu-1)
+- Twitter: [@EFYAMOTU](https://twitter.com/EFYAMOTU)
+- LinkedIn: [musa-habeeb](https://www.linkedin.com/in/musa-habeeb/)
 
 ## 🤝 Contributing
 
@@ -54,4 +47,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
